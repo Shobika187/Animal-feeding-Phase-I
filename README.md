@@ -33,6 +33,10 @@ Select all three animals in the hierarchy and Add Component > Drag the Move Forw
 Edit their speed values and test to see how it looks. Drag all three animals into the Prefabs folder, choosing “Original Prefab”
 
 ## Program:
+```
+Developed by: ShobiKa P
+Register No : 212221230096
+```
 ### PLAYER CONTROLLER
 ```
 using System.Collections;
