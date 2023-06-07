@@ -70,7 +70,9 @@ public class PlayerController : MonoBehaviour
 
     }
 }
+```
 ### MOVE FORWARD
+
 ```
 using System.Collections;
 using System.Collections.Generic;
@@ -91,8 +93,7 @@ public class MoveForward : MonoBehaviour
         transform.Translate(Vector3.forward * Time.deltaTime * speed);
     }
 }
-
-
+```
 ## Output:
 
 ![Screenshot (267)](https://github.com/Shobika187/Animal-feeding-Phase-I/assets/94508142/83c70036-3cca-4d03-a6c8-f14a162220f8)
