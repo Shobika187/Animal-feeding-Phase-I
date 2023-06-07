@@ -101,6 +101,7 @@ public class MoveForward : MonoBehaviour
 ## Output:
 
 ![Screenshot (267)](https://github.com/Shobika187/Animal-feeding-Phase-I/assets/94508142/83c70036-3cca-4d03-a6c8-f14a162220f8)
+![image](https://github.com/Shobika187/Animal-feeding-Phase-I/assets/94508142/7e274c34-34c6-41a0-8a7d-1fe09a83f242)
 
 ## Result:
 Result:
